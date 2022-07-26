@@ -37,6 +37,7 @@ public class Sample {
 		Sample sample=new Sample();
 		sample.setNumber(5);
 		System.out.println(sample.getFact());
+		System.out.println("Hello World");
 
 	}
 
